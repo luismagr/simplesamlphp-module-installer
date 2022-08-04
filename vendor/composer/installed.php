@@ -3,7 +3,7 @@
         'name' => 'luismagr/simplesamlphp-module-installer',
         'pretty_version' => 'dev-main',
         'version' => 'dev-main',
-        'reference' => 'b7d7d826623f73d1a261a9082fc597e627950b0d',
+        'reference' => '1a937ff6fb81453a277fcb44afea249bc20ea392',
         'type' => 'composer-plugin',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
@@ -85,7 +85,7 @@
         'luismagr/simplesamlphp-module-installer' => array(
             'pretty_version' => 'dev-main',
             'version' => 'dev-main',
-            'reference' => 'b7d7d826623f73d1a261a9082fc597e627950b0d',
+            'reference' => '1a937ff6fb81453a277fcb44afea249bc20ea392',
             'type' => 'composer-plugin',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(),
