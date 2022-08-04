@@ -9,7 +9,7 @@ class SimplesamlphpInstallerPlugin extends LibraryInstaller {
 
   public function supports(string $packageType) {
     print($packageType);
-    return 'simplesamlphp-theme' == $packageType;
+    return 'simplesamlphp-module' == $packageType;
   }
 
   public function getInstallPath(PackageInterface $package) {
